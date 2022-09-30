@@ -11,13 +11,13 @@ education:
   courses:
     - course: PhD in Applied Mathematics
       institution: Sorbonne University
-      year: 2022
+      year: ""
     - course: Master 2 in Mathematics
       institution: "Paris Dauphine University "
-      year: 2021
+      year: 2022
     - course: BSc in Mathematics
       institution: Wuhan University
-      year: 2017
+      year: 2021
 superuser: true
 last_name: Bighetti
 highlight_name: true
